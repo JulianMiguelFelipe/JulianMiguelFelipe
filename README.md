@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=true&text=Hello%20there!,%20I'm%20Julian%20Miguel%20I.%20Felipe%20&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BSIT%20student%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Tech%20Enthusiast&descSize=16&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=true&text=Hello%20there!,%20I'm%20Julian%20Miguel%20I.%20Felipe%20&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BSIT%20student%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Tech%20Enthusiast&descSize=16&descAlign=50&descAlignY=80&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
@@ -51,17 +51,6 @@
 
 ###
 
-<h2 align="left">My Stats</h2>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=julianmiguelfelipe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="100" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianmiguelfelipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=julianmiguelfelipe.julianmiguelfelipe&"  />
 </div>
@@ -69,7 +58,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=gruvbox"  />
 </div>
 
 ###
