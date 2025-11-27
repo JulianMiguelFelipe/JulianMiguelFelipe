@@ -8,11 +8,7 @@
 
 ###
 
-<p align="left">🔸 I am currently pursuing a Bachelor of Science in Information Technology (BSIT).<br><br>🔸 I am passionate about programming and design.<br><br>🔸 I have strong problem-solving skills and a creative mindset.<br><br>🔸 I enjoy exploring different programming languages and tools to expand my knowledge.<br><br>🔸 I am motivated to grow both academically and professionally.<br><br>🔸 I enjoy working on projects that challenge and enhance my skills.</p>
-
-###
-
-<img align="left" height="141" src="https://edurank.org/assets/img/uni-logos/new-era-university-logo.png"  />
+<p align="left">🔸 I am passionate about programming and graphic design.<br><br>🔸 I have strong problem-solving skills and a creative mindset.<br><br>🔸 I enjoy exploring different programming languages and tools to expand my knowledge.<br><br>🔸 I am motivated to grow both academically and professionally.<br><br>🔸 I enjoy working on projects that challenge and enhance my skills.</p>
 
 ###
 
@@ -20,7 +16,15 @@
 
 ###
 
+<img align="left" height="90" src="https://edurank.org/assets/img/uni-logos/new-era-university-logo.png"  />
+
+###
+
 <p align="left">New Era University<br>Bachelor of Science in Information Technology<br>2024 - Present</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
