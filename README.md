@@ -1,16 +1,75 @@
-## Hi there 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=true&text=Hello%20there!,%20I'm%20Julian%20Miguel%20I.%20Felipe%20&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BSIT%20student%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Tech%20Enthusiast&descSize=16&descAlign=50&descAlignY=80&textBg=false&color=gradient"  />
+</div>
 
-<!--
-**JulianMiguelFelipe/JulianMiguelFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h2 align="left">About me</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">🔸 I am currently pursuing a Bachelor of Science in Information Technology (BSIT).<br><br>🔸 I am passionate about programming and design.<br><br>🔸 I have strong problem-solving skills and a creative mindset.<br><br>🔸 I enjoy exploring different programming languages and tools to expand my knowledge.<br><br>🔸 I am motivated to grow both academically and professionally.<br><br>🔸 I enjoy working on projects that challenge and enhance my skills.</p>
+
+###
+
+<h2 align="left">My Certifications</h2>
+
+###
+
+<p align="left">SQL and Relational Databases 101:<br>https://courses.cognitiveclass.ai/certificates/7aad5c5e43c94213983af6d5e315b2a1</p>
+
+###
+
+<h2 align="left">My Tech Stack</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h2 align="left">My Socials</h2>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
+
+###
+
+<h2 align="left">My Stats</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=julianmiguelfelipe&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&order=1&custom_title=Github%20Stats" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=julianmiguelfelipe&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=julianmiguelfelipe.julianmiguelfelipe&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=footer&reversal=true&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
