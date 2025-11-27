@@ -1,5 +1,5 @@
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=true&text=Hello%20there!,%20I'm%20Julian%20Miguel%20I.%20Felipe%20&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=BSIT%20student%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Tech%20Enthusiast&descSize=16&descAlign=50&descAlignY=80&textBg=false&theme=gruvbox"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=155&section=header&reversal=true&text=Hello%20there!,%20I'm%20Julian%20Miguel%20I.%20Felipe%20&fontSize=39&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&desc=Aspiring%20IT%20Professional%20%7C%20Programmer%20%7C%20Graphic%20Designer%20%7C%20Tech%20Enthusiast&descSize=16&descAlign=50&descAlignY=80&textBg=false&theme=gruvbox"  />
 </div>
 
 ###
@@ -9,6 +9,18 @@
 ###
 
 <p align="left">🔸 I am currently pursuing a Bachelor of Science in Information Technology (BSIT).<br><br>🔸 I am passionate about programming and design.<br><br>🔸 I have strong problem-solving skills and a creative mindset.<br><br>🔸 I enjoy exploring different programming languages and tools to expand my knowledge.<br><br>🔸 I am motivated to grow both academically and professionally.<br><br>🔸 I enjoy working on projects that challenge and enhance my skills.</p>
+
+###
+
+<img align="left" height="141" src="https://edurank.org/assets/img/uni-logos/new-era-university-logo.png"  />
+
+###
+
+<h2 align="left">My Education</h2>
+
+###
+
+<p align="left">New Era University<br>Bachelor of Science in Information Technology<br>2024 - Present</p>
 
 ###
 
