@@ -37,7 +37,11 @@
     SQL and Relational Databases 101
   </a>
 </p>
-
+<p align="left">
+  <a href="[https://courses.cognitiveclass.ai/certificates/7aad5c5e43c94213983af6d5e315b2a1](https://catalog-education.oracle.com/ords/certview/sharebadge?id=09464CA7294A7FBC55CB1688B6DA054DE9047FC2C1A8D66806E30C0C321FA6BB)" title="Become An OCI Foundations Associate (2025)">
+    SQL and Relational Databases 101
+  </a>
+</p>
 
 ###
 
