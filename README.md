@@ -27,9 +27,11 @@
 <p align="left"></p>
 
 ###
-<p> </p>
 
-<h2 align="left">My Certifications</h2>
+<div align="left">
+  <h2>My Certifications</h2>
+</div>
+
 
 ###
 
