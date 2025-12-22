@@ -52,6 +52,7 @@
   <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEB6D03F4EDE281EE1ED88AC3DD3E6E93BFEEF9D49C101605BC66731564901FE" title="Become An OCI AI Foundations Associate (2025)">
  Become An OCI AI Foundations Associate (2025)
   </a>
+  
 ###
 
 <h2 align="left">My Tech Stack</h2>
