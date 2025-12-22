@@ -16,7 +16,7 @@
 
 ###
 
-<img align="left" height="90" src="https://edurank.org/assets/img/uni-logos/new-era-university-logo.png"  />
+<img align="left" height="75" src="https://edurank.org/assets/img/uni-logos/new-era-university-logo.png"  />
 
 ###
 
