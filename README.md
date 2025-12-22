@@ -35,26 +35,15 @@
 
 ###
 
-<p align="left">
-  <a href="https://courses.cognitiveclass.ai/certificates/7aad5c5e43c94213983af6d5e315b2a1" title="SQL and Relational Databases 101">
-    SQL and Relational Databases 101
-  </a>
-</p>
-<p align="left">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=09464CA7294A7FBC55CB1688B6DA054DE9047FC2C1A8D66806E30C0C321FA6BB" title="Become An OCI Foundations Associate (2025)">
- Become An OCI Foundations Associate (2025)
-  </a>
-</p>
-<p align="left">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E7A7470A1A83FE617683DAEF32AF225C3415911FB1717756C32EB7657C0461A" title="Become an Oracle Data Platform Foundations Associate">
- Become an Oracle Data Platform Foundations Associate
-  </a>
-</p>
-</p>
-<p align="left">
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEB6D03F4EDE281EE1ED88AC3DD3E6E93BFEEF9D49C101605BC66731564901FE" title="Become An OCI AI Foundations Associate (2025)">
- Become An OCI AI Foundations Associate (2025)
-  </a>
+## My Certifications
+
+| Certificate | Issued By | Date Issued |
+|-------------|-----------|-------------|
+| [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/7aad5c5e43c94213983af6d5e315b2a1) | Cognitive Class (IBM) | Nov 2025 |
+| [Become An OCI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=09464CA7294A7FBC55CB1688B6DA054DE9047FC2C1A8D66806E30C0C321FA6BB) | Oracle University | Dec 2025 |
+| [Become an Oracle Data Platform Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=3E7A7470A1A83FE617683DAEF32AF225C3415911FB1717756C32EB7657C0461A) | Oracle University | Dec 2025 |
+| [Become An OCI AI Foundations Associate (2025)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BEB6D03F4EDE281EE1ED88AC3DD3E6E93BFEEF9D49C101605BC66731564901FE) | Oracle University | Dec 2025 |
+
   
 ###
 
