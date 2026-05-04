@@ -32,10 +32,7 @@
   <h2>My Certifications</h2>
 </div>
 
-
 ###
-
-## My Certifications
 
 | Certificate Link | Issued By | Date Issued |
 |-------------|-----------|-------------|
