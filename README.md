@@ -62,7 +62,7 @@
 
 ###
 
-<h2 align="left">My Socials</h2>
+<h2>My Socials</h2>
 
 ###
 
